@@ -15,7 +15,7 @@ iii. Let other people know your "status" (e.g. where you work, what city you liv
 
 ### 3. What is the site's approximate information architecture? (in general -- don't get caught up in the details too much)
 
-![alt text](https://github.com/strychemi/facebook_teardown/pictures/Facebook_IA.pdf)
+![alt text](https://github.com/strychemi/facebook_teardown/blob/master/pictures/FB_IA.png)
 
 ### 4. For your top user goal, what is likely to make the user's experience particularly satisfying?
 
@@ -27,7 +27,7 @@ Once the user logs in, they are presented with the search bar at the top, and th
 
 Since the goal of the user is to have instant access to all the current events of people of interest (i.e. staying connected), the user has already accomplished the goal by simply logging in and arriving at the news feed page.
 
-![alt text](https://github.com/strychemi/facebook_teardown/pictures/Facebook_navflow.pdf)
+![alt text](https://github.com/strychemi/facebook_teardown/blob/master/pictures/FB_navflow.png)
 
 To accomplish secondary goals, the user can simply type in the search bar to look for people to become friends with, then proceed to their profile page and just simply click the friend request CTA near the top of the profile.
 

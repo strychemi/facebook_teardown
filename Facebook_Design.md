@@ -8,7 +8,7 @@ The focus of this design teardown will be on the following key pages on Facebook
 
 ### 1-2. Visual Hierarchy: what areas are denser and what areas are more sparse?
 
-![alt text](https://github.com/strychemi/facebook_teardown/pictures/FB_Homepage.pdf)
+![alt text](https://github.com/strychemi/facebook_teardown/blob/master/pictures/FB_home.png)
 
 The right hand side is definitely more dense than the left hand side.
 
@@ -65,7 +65,7 @@ As it is right now, it has a two column design. The left column describes its fe
 
 ### 1-2. Visual Hierarchy: what areas are denser and what areas are more sparse?
 
-![alt text](https://github.com/strychemi/facebook_teardown/pictures/FB_newsfeed.pdf)
+![alt text](https://github.com/strychemi/facebook_teardown/blob/master/pictures/FB_newsfeed.png)
 
 The left and right most columns are most dense while the middle column is more sparse.
 
@@ -122,7 +122,7 @@ If the user is in a lot of groups, the left column may be a bit crowded while th
 
 ### 1-2. Visual Hierarchy: what areas are denser and what areas are more sparse?
 
-![alt text](https://github.com/strychemi/facebook_teardown/pictures/FB_profile.pdf)
+![alt text](https://github.com/strychemi/facebook_teardown/blob/master/pictures/FB_profile.png)
 
 Anything outside of the profile picture area seems to be more dense.
 
@@ -164,7 +164,7 @@ Don't have any complaints for this page.
 
 ### 1-2. Visual Hierarchy: what areas are denser and what areas are more sparse?
 
-![alt text](https://github.com/strychemi/facebook_teardown/pictures/FB_about.pdf)
+![alt text](https://github.com/strychemi/facebook_teardown/blob/master/pictures/FB_about.png)
 
 The page is overall very evenly spaced out.
 
@@ -205,7 +205,7 @@ Don't have any complaints for this page.
 
 ### 1-2. Visual Hierarchy: what areas are denser and what areas are more sparse?
 
-![alt text](https://github.com/strychemi/facebook_teardown/pictures/FB_photos.pdf)
+![alt text](https://github.com/strychemi/facebook_teardown/blob/master/pictures/FB_photos.png)
 
 The photo album near the bottom of the page appear more dense than the rest of the page.
 

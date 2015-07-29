@@ -1,24 +1,24 @@
 Facebook Balsamiq Mockups
 =========================
 
-The following mockups were done in Balsamiq.
+The following mockups were done in Balsamiq. For the pdf versions, they can be found in the the /mockups_pdf directory.
 
 ###1. Home Page (Before logging in/signing up)
 
-![alt text](https://github.com/strychemi/facebook_teardown/tree/master/mockups/FB_home.pdf)
+![alt text](https://github.com/strychemi/facebook_teardown/blob/master/pictures/FBm_home.png)
 
 ###2. News Feed Page (After logging in)
 
-![alt text](https://github.com/strychemi/facebook_teardown/tree/master/mockups/FB_newsfeed.pdf)
+![alt text](https://github.com/strychemi/facebook_teardown/blob/master/pictures/FBm_newsfeed.png)
 
 ###3. Profile Page
 
-![alt text](https://github.com/strychemi/facebook_teardown/tree/master/mockups/FB_profile.pdf)
+![alt text](https://github.com/strychemi/facebook_teardown/blob/master/pictures/FBm_profile.png)
 
 ###4. About Page
 
-![alt text](https://github.com/strychemi/facebook_teardown/tree/master/FB_about.pdf)
+![alt text](https://github.com/strychemi/facebook_teardown/blob/master/pictures/FBm_about.png)
 
 ###5. Photos Page
 
-![alt text](/mockups/https://github.com/strychemi/facebook_teardown/tree/master/mockups/FB_photos.pdf)
+![alt text](https://github.com/strychemi/facebook_teardown/blob/master/pictures/FBm_photos.png)
